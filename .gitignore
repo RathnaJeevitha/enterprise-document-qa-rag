@@ -75,4 +75,7 @@ frontend/.env
 # ChromaDB local storage
 chroma_data/
 
+backened/venv/
+
+
 
